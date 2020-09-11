@@ -1,6 +1,5 @@
 
-const Discord = require('discord.js');
-const MrFOG1 = new Discord.Client();
+const Discord = require();
 const MrFOG2 = new Discord.Client();
 const MrFOG3 = new Discord.Client();
 const MrFOG4 = new Discord.Client();
@@ -103,8 +102,8 @@ const MrFOG100= new Discord.Client();
 
 
 MrFOG1.login("NzI1MDY5MzcyNDM5MjY1Mzgy.XvJX9A.Y02w8M9tlODEjmjdkn4kTCqxxqE");
-MrFOG2.login("");
-MrFOG3.login("");
+MrFOG2.login("NzQ4MzgwMjAzOTI3MDc2OTc0.X0cmMQ.i0uisr0uXhT6wqJNIJSj4529nyA");
+MrFOG3.login("NzQ4NTk2MjA3NzY4Njk4OTQw.X0fv_g.wdP9iepRsUzcJaQC7c946xfhRRA");
 MrFOG4.login("");
 MrFOG5.login("");
 MrFOG6.login("");
